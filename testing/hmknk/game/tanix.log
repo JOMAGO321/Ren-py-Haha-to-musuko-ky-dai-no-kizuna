@@ -1,0 +1,177 @@
+2026-03-09 18:12:43,502 INFO Starting Game
+2026-03-09 18:12:43,504 INFO MAIN_GAME
+2026-03-09 18:12:43,505 INFO card game {'00': '3 Hearts', '01': 'Joker', '02': 'King of Cubs', '03': 'King of Cubs', '10': '3 Hearts', '11': 'Joker', '12': '7 Spade', '13': '7 Spade'}
+2026-03-09 18:12:45,069 INFO card game ['11']
+2026-03-09 18:12:45,909 INFO card game ['11', '13']
+2026-03-09 18:12:46,726 INFO card game ['02']
+2026-03-09 18:12:47,320 INFO card game ['02', '12']
+2026-03-09 18:12:47,910 INFO card game ['03']
+2026-03-09 18:12:48,758 INFO card game ['03', '01']
+2026-03-09 18:12:49,294 INFO card game ['11']
+2026-03-09 18:12:50,190 INFO card game ['11', '13']
+2026-03-09 18:12:51,087 INFO card game ['00']
+2026-03-09 18:12:51,638 INFO card game ['00', '10']
+2026-03-09 18:12:51,639 INFO card game MATCH
+2026-03-09 18:12:52,422 INFO card game ['11']
+2026-03-09 18:12:52,990 INFO card game ['11', '01']
+2026-03-09 18:12:52,991 INFO card game MATCH
+2026-03-09 18:12:53,478 INFO card game ['02']
+2026-03-09 18:12:54,079 INFO card game ['02', '12']
+2026-03-09 18:12:54,598 INFO card game ['13']
+2026-03-09 18:12:55,222 INFO card game ['13', '02']
+2026-03-09 18:12:55,767 INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+rd game ['11']
+2026-03-09 18:12:45,909 INFO card game ['11', '13']
+2026-03-09 18:12:46,726 INFO card game ['02']
+2026-03-09 18:12:47,320 INFO card game ['02', '12']
+2026-03-09 18:12:47,910 INFO card game ['03']
+2026-03-09 18:12:48,758 INFO card game ['03', '01']
+2026-03-09 18:12:49,294 INFO card game ['11']
+2026-03-09 18:12:50,190 INFO card game ['11', '13']
+2026-03-09 18:12:51,087 INFO card game ['00']
+2026-03-09 18:12:51,638 INFO card game ['00', '10']
+2026-03-09 18:12:51,639 INFO card game MATCH
+2026-03-09 18:12:52,422 INFO card game ['11']
+2026-03-09 18:12:52,990 INFO card game ['11', '01']
+2026-03-09 18:12:52,991 INFO card game MATCH
+2026-03-09 18:12:53,478 INFO card game ['02']
+2026-03-09 18:12:54,079 INFO card game ['02', '12']
+2026-03-09 18:12:54,598 INFO card game ['13']
+2026-03-09 18:12:55,222 INFO card game ['13', '02']
+2026-03-09 18:12:55,767 INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH
+ INFO card game ['12']
+2026-03-09 18:12:56,381 INFO card game ['12', '13']
+2026-03-09 18:12:56,381 INFO card game MATCH
+2026-03-09 18:12:56,910 INFO card game ['03']
+2026-03-09 18:12:57,430 INFO card game ['03', '02']
+2026-03-09 18:12:57,430 INFO card game MATCH

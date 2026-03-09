@@ -1,0 +1,23 @@
+{
+  "characters": {    
+    "ME:": {
+      "icon": "images/chat/char5_icon.png"
+    }
+  },
+  "popchat": {    
+  },
+  "cards": {
+    "King of Cubs": {
+      "image": ""
+    },
+    "Joker": {
+      "image": ""
+    },
+    "3 Hearts": {
+      "image": ""
+    },
+    "7 Spade": {
+      "image": ""
+    }
+  }
+}
